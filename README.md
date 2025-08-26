@@ -37,3 +37,6 @@
 
 ---
 
+
+*See REFERENCES.md for sources, inspiration, and acknowledgements.*
+
